@@ -1,2 +1,0 @@
-# hibernateJpa
-hibernate + jpa demo
